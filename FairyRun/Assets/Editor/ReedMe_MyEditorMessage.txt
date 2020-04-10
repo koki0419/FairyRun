@@ -1,0 +1,38 @@
+最終更新日【2019/11/30】
+
+
+【Create Item Position】
+「FairyItemPallet」の中にアイテム（fairyItem）を並べたモノの
+”Position”を取得します。
+※必要なモノ
+・FairyItemPallet（プレハブ）・獲得ポイント（ScriptableObject）
+
+【Create Enemy_Obstacle Position】
+「EnemyPallet」 もしくは「ObstaclePallet」の中にデータを並べたモノの
+”Position”と”回転Y”を取得します。
+※必要なモノ
+・EnemyPallet（プレハブ）もしくはObstaclePallet（プレハブ）
+
+【Create Stage Map】
+CSVファイルからステージを生成します。
+※必要なモノ
+・CSVデータ・Mapチップ
+
+【Create Item Importer】
+各型のアイテム（ScriptableObject）を生成します。
+”int”，”float”，”double”，”string”，”bool”
+※必要なモノ
+・無
+
+【Create ToolsCsvImpoter】
+CSVデータから”Item”，”Enemy”，”Obstacle”データを作成します。
+※必要なモノ
+・各CSVデータ
+
+【CreateMap】
+「CreateStageMap」で作成したステージデータをもとに
+インスペクター上にステージを "CreateInstans"する。
+※必要なモノ
+「CreateStageMap」で作成したステージデータ
+
+※尚、全てのCSVファイルはUnity上にImportする必要はありません。

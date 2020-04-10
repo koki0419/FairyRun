@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad74ae647571a34c8f362a0856cfe29, type: 3}
+  m_Name: ObstaclesPosData_1
+  m_EditorClassIdentifier: 
+  ObstacleList:
+  - id: 1
+    obstacleName: maruta
+    position: {x: 0, y: 0.5, z: 90}
+    rotate: 0
+  - id: 2
+    obstacleName: maruta
+    position: {x: 2.5, y: 0.5, z: 170}
+    rotate: 0
+  - id: 3
+    obstacleName: maruta
+    position: {x: 70, y: 0.5, z: 182.5}
+    rotate: 90
+  - id: 4
+    obstacleName: maruta
+    position: {x: 160, y: 0.5, z: 177.5}
+    rotate: 90
+  - id: 5
+    obstacleName: maruta
+    position: {x: 282.5, y: 0.5, z: 150}
+    rotate: 0
+  - id: 6
+    obstacleName: maruta
+    position: {x: 282.5, y: 0.5, z: 110}
+    rotate: 0
+  - id: 7
+    obstacleName: maruta
+    position: {x: 280, y: 0.5, z: 10}
+    rotate: 0
+  - id: 8
+    obstacleName: maruta
+    position: {x: 290, y: 0.5, z: -82.5}
+    rotate: 90
+  - id: 9
+    obstacleName: maruta
+    position: {x: 327.5, y: 0.5, z: -30}
+    rotate: 0
+  - id: 10
+    obstacleName: maruta
+    position: {x: 332.5, y: 0.5, z: 50}
+    rotate: 0
+  - id: 11
+    obstacleName: maruta
+    position: {x: 332.5, y: 0.5, z: 150}
+    rotate: 0
+  - id: 12
+    obstacleName: maruta
+    position: {x: 330, y: 0.5, z: 230}
+    rotate: 0
+  - id: 13
+    obstacleName: maruta
+    position: {x: 390, y: 0.5, z: 270}
+    rotate: 90

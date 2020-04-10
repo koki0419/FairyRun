@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5818f9637de851740a4d6a23b2a444a3, type: 3}
+  m_Name: EnemyPosData_2
+  m_EditorClassIdentifier: 
+  enemyList:
+  - id: 0
+    enemyName: 
+    position: {x: -2.5, y: 1.33, z: 60}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 0, y: 1.33, z: 128}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 2.5, y: 1.33, z: 203.4}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 48, y: 1.33, z: 257.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 118.7, y: 1.33, z: 260}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 212, y: 1.33, z: 262.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 305.1, y: 1.33, z: 260}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 374, y: 1.33, z: 262.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 399.5, y: 1.33, z: 306.5}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 397, y: 1.33, z: 354.69}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 402, y: 1.33, z: 431.2}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 369.5, y: 1.33, z: 470}
+    rotate: 90
+  - id: 0
+    enemyName: 
+    position: {x: 294.5, y: 1.33, z: 472.5}
+    rotate: 90
+  - id: 0
+    enemyName: 
+    position: {x: 283.4, y: 1.33, z: 467.5}
+    rotate: 90
+  - id: 0
+    enemyName: 
+    position: {x: 223.2, y: 1.33, z: 467.5}
+    rotate: 90
+  - id: 0
+    enemyName: 
+    position: {x: 155, y: 1.33, z: 470}
+    rotate: 90
+  - id: 0
+    enemyName: 
+    position: {x: 37, y: 1.33, z: 526.2}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 42, y: 1.33, z: 651.7}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 37, y: 1.33, z: 661.9}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 80.3, y: 1.33, z: 712.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 133.3, y: 1.33, z: 712.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 190.4, y: 1.33, z: 710}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 255.3, y: 1.33, z: 710}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 305.2, y: 1.33, z: 707.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 356.5, y: 1.33, z: 707.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 409.1, y: 1.33, z: 710}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 459.9, y: 1.33, z: 707.5}
+    rotate: 270
+  - id: 0
+    enemyName: 
+    position: {x: 499.5, y: 1.36, z: 719.68}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 497, y: 1.3, z: 793.7}
+    rotate: 180
+  - id: 0
+    enemyName: 
+    position: {x: 499.5, y: 1.3, z: 861.6}
+    rotate: 180

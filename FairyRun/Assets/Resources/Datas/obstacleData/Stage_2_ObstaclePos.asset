@@ -1,0 +1,543 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad74ae647571a34c8f362a0856cfe29, type: 3}
+  m_Name: Stage_2_ObstaclePos
+  m_EditorClassIdentifier: 
+  ObstacleList:
+  - id: 0
+    obstacleName: 
+    position: {x: 0, y: 0, z: 77.21}
+    rotate: 270
+  - id: 0
+    obstacleName: 
+    position: {x: -2.5, y: 0, z: 77.21}
+    rotate: 270
+  - id: 0
+    obstacleName: 
+    position: {x: -2.5, y: 0, z: 132.61}
+    rotate: 270
+  - id: 0
+    obstacleName: 
+    position: {x: 0, y: 0, z: 132.61}
+    rotate: 270
+  - id: 0
+    obstacleName: 
+    position: {x: 2.5, y: 0, z: 132.61}
+    rotate: 270
+  - id: 0
+    obstacleName: 
+    position: {x: 31.84, y: 0, z: 254}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 31.84, y: 0, z: 256.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 56.78, y: 0, z: 254}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 105.56, y: 0, z: 256.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 105.56, y: 0, z: 251.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 163.41, y: 0, z: 251.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 255.6, y: 0, z: 251.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 255.45, y: 0, z: 254}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 358.9, y: 0, z: 254}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 358.9, y: 0, z: 251.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 358.9, y: 0, z: 256.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 399.5, y: 0, z: 266.25}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 402, y: 0, z: 293}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 397, y: 0, z: 293}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 397, y: 0, z: 315.15}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 402, y: 0, z: 387.21}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 399.5, y: 0, z: 387.21}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 397, y: 0, z: 387.21}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 397, y: 0, z: 398.69}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 399.5, y: 0, z: 398.69}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 402, y: 0, z: 398.69}
+    rotate: 180
+  - id: 0
+    obstacleName: 
+    position: {x: 380, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 338.64, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 338.64, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 322.58, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 278.38, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 278.38, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 253.18, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 253.18, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 253.18, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 200.32, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 190.49, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 200.32, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 190.49, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 190.49, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 98.18, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 98.18, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 95.67, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 95.67, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 95.67, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 55.21, y: 0, z: 466.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 55.21, y: 0, z: 464}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 55.21, y: 0, z: 461.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 492.92}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 505.48}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 525.96}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 525.96}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 525.96}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 550.72}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 550.72}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 550.72}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 550.72}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 553.37}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 553.37}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 556.02}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.51, y: 0, z: 562.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 562.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 562.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 562.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 566}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 566}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 569.89}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 577.9}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 585.5}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 614.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 614.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 614.41}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 616.92}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 619.7}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 617}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 619.95}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 623.65}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 37, y: 0, z: 651.73}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 42, y: 0, z: 651.73}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 39.5, y: 0, z: 651.73}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 71.05, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 71.05, y: 0, z: 706.55}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 71.05, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 106.73, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 106.73, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 159.67, y: 0, z: 701.24}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 222.3, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 222.3, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 274.83, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 274.83, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 274.83, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 278.2, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 278.2, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 281.39, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 291.72, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 295.14, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 295.14, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 295.14, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 323.91, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 367.78, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 377.42, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 431.04, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 431.04, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 476.62, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 476.62, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 480.49, y: 0, z: 704}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 480.49, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 485.18, y: 0, z: 701.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 487.44, y: 0, z: 706.5}
+    rotate: 90
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 734.3}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 803.85}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 803.85}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 803.85}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 806.1}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 806.1}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 808.72}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 821.4}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 821.4}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 821.4}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 824.14}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 824.14}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 831.02}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 830.92}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 839.2}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 879.2}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 879.2}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 879.2}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 879.2}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 497, y: 0, z: 882.58}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 502, y: 0, z: 882.58}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 888.47}
+    rotate: -0
+  - id: 0
+    obstacleName: 
+    position: {x: 499.5, y: 0, z: 897.86}
+    rotate: -0

@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12c8df134c3c78341807e359826fe2ef, type: 3}
+  m_Name: FairyItemPosData_2
+  m_EditorClassIdentifier: 
+  itemList:
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 0, y: 0.7, z: 32.9}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 2.5, y: 0.7, z: 46.7}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 0, y: 0.7, z: 89.28}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 2.5, y: 0.7, z: 117.3}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: -2.5, y: 0.7, z: 235.9}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 70, y: 0.7, z: 259.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 142.4, y: 0.7, z: 262}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 170.5, y: 0.7, z: 257}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 220.3, y: 0.7, z: 257}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 262.3, y: 0.7, z: 257}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 294.35, y: 0.7, z: 262}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 386.8, y: 0.7, z: 259.7}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 400, y: 0.7, z: 278.21}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 397.5, y: 0.7, z: 316.34}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 402.5, y: 0.7, z: 383.51}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 402.5, y: 0.7, z: 445.1}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 387.9, y: 0.7, z: 469.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 347.67, y: 1.01, z: 467}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 317.49, y: 1.01, z: 469.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 273.7, y: 1.01, z: 467}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 247.11, y: 1.01, z: 472}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 180.2, y: 1.04, z: 469.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 164.37, y: 1.04, z: 467}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 110.81, y: 1.04, z: 469.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 68.31, y: 1.04, z: 467}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 42, y: 1.04, z: 505.36}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 42, y: 1.04, z: 603.3}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 59.38, y: 1.04, z: 709.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 113.65, y: 1.04, z: 712}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 170.9, y: 1.04, z: 707}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 206.1, y: 1.04, z: 707}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 232.6, y: 1.04, z: 712}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 332.6, y: 1.04, z: 709.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 389.9, y: 1.04, z: 709.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 437.7, y: 1.04, z: 712}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 499.5, y: 1.04, z: 743.5}
+    rotate: 90
+  - id: 0
+    itemName: 
+    point: 1
+    position: {x: 497, y: 1.04, z: 769.9}
+    rotate: 90

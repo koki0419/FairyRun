@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32731c34ad1b1b846a1e65afaba44f9b, type: 3}
+  m_Name: Create Substance
+  m_EditorClassIdentifier: 
+  itemData: {fileID: 11400000, guid: 048ce76c636b5c6428c30a07e4987380, type: 2}
+  errorRange_Item: {x: 0, y: 0, z: 2}
+  enemyData: {fileID: 11400000, guid: 524a62112884fa647b3732058b714bb8, type: 2}
+  errorRange_Enemy: {x: 0, y: 0, z: 32.5}
+  obstacleData: {fileID: 11400000, guid: 5e42ffada7b57e84787d7dd9cecb451e, type: 2}
+  errorRange_Obstacle: {x: 0, y: 0, z: 6}
+  type: 0
+  substanceItemTip:
+  - {fileID: 2067755645702856009, guid: 7a15bd98caf16e9418ea017019fd943e, type: 3}
+  substanceEnemyTip:
+  - {fileID: 541788713578221006, guid: 31f39f36e03870f46bff77651c3935c0, type: 3}
+  substanceObstacleTip:
+  - {fileID: 4067907231440688016, guid: 7eb1f4512ecb8bf4e81d49ec43e077cc, type: 3}

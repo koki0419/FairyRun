@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57f0034edbd475f4dbcb7238d47ac34d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brokenTilemap: {instanceID: 0}
+  - brokenTilePrefab: {fileID: 2849820741898204675, guid: af32fb7464dfce14ea1b54c199fa457f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
